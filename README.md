@@ -4,6 +4,7 @@ This is a Python script that uses the PyTube library and Flask web framework to 
 FIX 2 ISSUES
 
 1)Style the index page and download page
+
 2)When i download a video it shows the video name this "myYouTube.mp4". Its name should be the video's title.
 
 
